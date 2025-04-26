@@ -1,6 +1,11 @@
 # Ako
 A simple config language that's inspired by games cvar / autoexec format.
 
+## Implementations
+- [C](https://github.com/Tuyuji/AkoC)
+- [C#](https://github.com/Tuyuji/AkoSharp)
+- [JS/TS](https://github.com/Tuyuji/AkoJS)
+
 ## Sample
 ```ako
 window [
